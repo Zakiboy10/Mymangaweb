@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    background: black;
+    padding: 1rem;
+    justify-content: space-between;
+}
+
+.search {
+    background: white;
+}
+.search span {
+    color: rgb(150, 145, 145)
+}
+
